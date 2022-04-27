@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**N-Ignacio-Bouffanais/N-Ignacio-Bouffanais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Nicolas Bouffanais
 
-Here are some ideas to get you started:
+This is my portfolio: [https://n-ignacio-bouffanais.github.io/](https://n-ignacio-bouffanais.github.io/ "Personal portfolio")
+* ## Somethings about me:
+    * 🌱 I’m currently learning in Platzi
+    * 🤔 I’m looking for help with JavaScript and CSS.
+    * 💬 Ask me about Html, CSS, JS, Git and GitHub.
+## Social media:
+My dev.to: [https://dev.to/nignaciobouffanais](https://dev.to/nignaciobouffanais).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Twitter: [https://twitter.com/N_Bouffanais](https://twitter.com/N_Bouffanais).
+
+My Instagram: [https://www.instagram.com/n_bouffanais/](https://www.instagram.com/n_bouffanais/).
+
+## My Personal's Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-Ignacio-Bouffanais&theme=radical)
