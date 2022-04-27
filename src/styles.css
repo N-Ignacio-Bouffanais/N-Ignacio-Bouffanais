@@ -1,0 +1,46 @@
+:root{
+  --bg-color-main: #1d1d1d;
+  --nav-height: 3rem;
+  --fg-color: #fff;
+  --second-color: #64ffda;
+}
+
+html {
+  font-family: "Open Sans",sans-serif;
+  font-size: 62.5%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/*Header*/
+
+
+
+/*Main*/
+
+main .main-section-title h2{
+  font-size: 3.5rem;
+}
+main .main-section-title h1{
+  font-size: 5rem;
+}
+main section .main-section{
+  display: flex;
+  min-height: 100vh;
+  padding: 9rem 3rem;
+  position: relative;
+  align-items: center;
+}
+/*Footer*/
+footer {
+  position: absolute;
+  bottom: 0;
+}
+footer a{
+  color: var(--fg-color);
+  text-decoration: none;
+}
+
