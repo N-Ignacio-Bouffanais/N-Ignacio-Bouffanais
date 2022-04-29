@@ -1,15 +1,7 @@
-:root{
-  --bg-color-main: #1d1d1d;
-  --nav-height: 3rem;
-  --fg-color: #fff;
-  --second-color: #64ffda;
-}
-
 html {
   font-family: "Open Sans",sans-serif;
   font-size: 62.5%;
 }
-
 * {
   padding: 0;
   margin: 0;
@@ -17,27 +9,60 @@ html {
 }
 body{
   background: #1d1d1d;
+  color: white;
+  font-size: 1.6rem;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
 }
 
 /*Header*/
 
+header .container {
+  width: 90%;
+  margin: auto;
+}
+
+/*Navigation*/
+header .container .nav-main {
+  font-size: 1.7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6rem;
+  padding: 2rem 0;
+}
+header .container .nav-main ul{
+  display: flex;
+}
+header .container .nav-main ul li{
+  padding: 2rem;
+}
+header .container .nav-main ul li a{
+  padding: 0.2rem;
+}
+header .container .nav-main ul li a:hover {
+  border-bottom: 0.2rem solid #ffffff ;
+}
+#icono-N{
+  font-size: 3rem;
+  color: red;
+}
+
+header .nav-main ul.nav-menu {
+  flex: 1;
+  margin-left: 2rem;
+}
 
 
 /*Main*/
 
-main .main-section-title h2{
-  font-size: 3.5rem;
-}
-main .main-section-title h1{
-  font-size: 5rem;
-}
-main section .main-section{
-  display: flex;
-  min-height: 100vh;
-  padding: 9rem 3rem;
-  position: relative;
-  align-items: center;
-}
+
 /*Footer*/
 footer {
   position: absolute;
