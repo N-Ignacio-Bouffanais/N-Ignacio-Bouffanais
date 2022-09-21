@@ -23,10 +23,7 @@ This is my portfolio: [https://n-ignacio-bouffanais.github.io/](https://n-ignaci
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-Ignacio-Bouffanais&theme=radical)
 
 ## 💬 Connect with me : 
-My dev.to: [https://dev.to/nignaciobouffanais](https://dev.to/nignaciobouffanais).
-
-My Twitter: [https://twitter.com/N_Bouffanais](https://twitter.com/N_Bouffanais).
-
+My showcase: [https://www.showwcase.com/n-ignacio-bouffanais](https://www.showwcase.com/n-ignacio-bouffanais).
 
 <a href="https://www.linkedin.com/in/nicolas-ignacio-bouffanais-lay-941989236//">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
