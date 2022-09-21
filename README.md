@@ -27,6 +27,7 @@ My dev.to: [https://dev.to/nignaciobouffanais](https://dev.to/nignaciobouffanais
 My Twitter: [https://twitter.com/N_Bouffanais](https://twitter.com/N_Bouffanais).
 
 
+<<<<<<< HEAD
 <a href="https://www.linkedin.com/in/nicolas-ignacio-bouffanais-lay-941989236//">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
 </a>
@@ -36,3 +37,8 @@ My Twitter: [https://twitter.com/N_Bouffanais](https://twitter.com/N_Bouffanais)
 <a href="n.ignacio.bouffanais@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
+=======
+## My Personal's Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-Ignacio-Bouffanais&theme=radical)
+
+>>>>>>> ced4d46053a0abeb93b27d28bcc411d4012c7bb3
