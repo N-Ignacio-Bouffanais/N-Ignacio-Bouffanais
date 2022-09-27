@@ -4,7 +4,7 @@
 
 ## I'm a Frontend Developer
 
-This is my portfolio: [https://n-ignacio-bouffanais.github.io/](https://n-ignacio-bouffanais.github.io/ "Personal portfolio")
+This is my portfolio: [https://n-ignacio-bouffanais.github.io/](https://n-ignacio-bouffanais.github.io/Nicolas_Bouffanais/src/ "Personal portfolio")
 * ## Somethings about me:
     * 🌱 I’m currently learning TypeScript and Express.
     *  I’m looking for help projects FullStack.
