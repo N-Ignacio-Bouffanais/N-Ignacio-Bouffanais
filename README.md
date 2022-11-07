@@ -3,11 +3,12 @@
 # I'm Nicolas Bouffanais a frontend developer
 
 - This is my portfolio: [https://n-ignacio-bouffanais.github.io/](https://nicolas-bouffanais.vercel.app/src/index.html "Personal portfolio")
-* ## Somethings about me:
-    * 📗 I'm currently doing frontend developer projects on frontendmentor.io.
-    * 📖 I'm learning about Reactjs, Typescript and SASS.
-    * 🔎 I'm looking for a job as a frontend developer.
-    * 📫 Connect with  me on my socials linked below.
+
+## Somethings about me:
+  * 📗 I'm currently doing frontend developer projects on frontendmentor.io.
+  * 📖 I'm learning about Reactjs, Typescript and SASS.
+  * 🔎 I'm looking for a job as a frontend developer.
+  * 📫 Connect with  me on my socials linked below.
 
 
 ## 💼 Tech Stack
