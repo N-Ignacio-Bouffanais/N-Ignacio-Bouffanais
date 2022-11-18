@@ -2,7 +2,7 @@
 
 # I'm Nicolas Bouffanais a frontend developer
 
-- This is my portfolio: [https://nicolas-bouffanais.vercel.app/src/index.html](https://nicolas-bouffanais.vercel.app/src/index.html "Personal portfolio")
+- This is my portfolio: [https://nicolas-bouffanais.vercel.app/src/index.html](https://portfolio-nicolas-bouffanais.vercel.app/ "Personal portfolio")
 
 ## Somethings about me:
   * 📗 I'm currently doing frontend developer projects on frontendmentor.io.
