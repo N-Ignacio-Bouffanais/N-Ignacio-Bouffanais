@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bouffanais</h1>
 <h3 align="center">A passionate frontend developer from Chile, I like to use Vuejs and Typescript.</h3>
 
-<p align="left"> <a href="https://twitter.com/n_bouffanais" target="blank"><img src="https://img.shields.io/twitter/follow/n_bouffanais?logo=twitter&style=for-the-badge" alt="n_bouffanais" /></a> </p>
-
 - 🔭 I’m currently working on [Trivia-app](https://trivia-vue-ts.vercel.app/)
 
 - 🌱 I’m currently learning **Vuejs, Typescript and Firebase**
