@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bouffanais</h1>
 <h3 align="center">A passionate frontend developer from Chile, I like to use Vuejs and Typescript.</h3>
 
-- 🔭 I’m currently working on [Trivia-app](https://trivia-vue-ts.vercel.app/)
+- 🔭 I’m currently working on [Express-TS-Api]([https://trivia-vue-ts.vercel.app/](https://github.com/N-Ignacio-Bouffanais/TS-Express-Api))
 
 - 🌱 I’m currently learning **Vuejs, Typescript, MongoDB and Express**
 
-- 🤝 I’m looking for help with **Vue 3 setup**
+- 🤝 I’m looking for help with **Express and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nicolas-bouffanais.vercel.app/](https://portfolio-nicolas-bouffanais.vercel.app/)
 
-- 💬 Ask me about **Sass, Vue3, JS**
+- 💬 Ask me about **Sass, Vue3, TYpescript**
 
 - 📫 How to reach me **nicolas.bouffanais.1999@gmail.com**
 
-- ⚡ Fun fact **I like anime and manga**
+- ⚡ Fun fact **I like anime and manga, my favorite anime is One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
