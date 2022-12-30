@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Trivia-app](https://trivia-vue-ts.vercel.app/)
 
-- 🌱 I’m currently learning **Vuejs, Typescript and Firebase**
+- 🌱 I’m currently learning **Vuejs, Typescript, MongoDB and Express**
 
 - 🤝 I’m looking for help with **Vue 3 setup**
 
