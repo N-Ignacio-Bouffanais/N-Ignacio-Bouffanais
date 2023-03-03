@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bouffanais</h1>
 <h3 align="center">A passionate frontend developer from Chile, I like to use Vuejs and Typescript.</h3>
 
-- 🔭 I’m currently working on **React native client**
+- 🔭 I’m currently working on **FastApi backend**
 
-- 🌱 I’m currently learning **Reactjs, Typescript and Docker**
+- 🌱 I’m currently learning **FastApi and Reactjs and Docker**
 
-- 👯 I’m looking to collaborate on **Typescript projects**
+- 👯 I’m looking to collaborate on **Typescript and python projects**
 
-- 🤝 I’m looking for help with **React native and zustand**
+- 🤝 I’m looking for help with **React, Tailwindcss and Python**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nicolas-bouffanais.vercel.app/](https://portfolio-nicolas-bouffanais.vercel.app/)
 
-- 💬 Ask me about **Sass, Vue3, JS, Typescript, Mongodb**
+- 💬 Ask me about **Sass, FastAPI, Python, React or Typescript**
 
 - 📫 How to reach me **nicolas.bouffanais.1999@gmail.com**
 
