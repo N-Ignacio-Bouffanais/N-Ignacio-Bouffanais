@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bouffanais</h1>
-<h3 align="center">A passionate frontend developer from Chile, I like to use Vuejs and Typescript.</h3>
+<h3 align="center">A passionate frontend developer from Chile, I like to use Python and TypeScript.</h3>
 
 - 🔭 I’m currently working on **FastApi backend**
 
