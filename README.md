@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bouffanais</h1>
 <h3 align="center">A passionate frontend developer from Chile, I like to use Vuejs and Typescript.</h3>
 
-- 🔭 I’m currently working on **React native client**
+- 🔭 I’m currently working on **Full stack web application with nestjs and qwikjs**
 
-- 🌱 I’m currently learning **Reactjs, Typescript and Docker**
+- 🌱 I’m currently learning **Qwikjs and Nestjs**
 
 - 👯 I’m looking to collaborate on **Typescript projects**
 
-- 🤝 I’m looking for help with **React native and zustand**
+- 🤝 I’m looking for help with **Nestjs, Prisma and Qwik**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nicolas-bouffanais.vercel.app/](https://portfolio-nicolas-bouffanais.vercel.app/)
 
-- 💬 Ask me about **Sass, Vue3, JS, Typescript, Mongodb**
+- 💬 Ask me about **Tailwindcss, JS, TS, Nestjs, Mongodb**
 
 - 📫 How to reach me **nicolas.bouffanais.1999@gmail.com**
 
-- ⚡ Fun fact **I like anime and manga**
+- ⚡ Fun fact **I like  One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
