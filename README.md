@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nicolás Bouffanais</h1>
 <h3 align="center">A passionate frontend developer from Chile, I like to use Vuejs and Typescript.</h3>
 
-- 🔭 I’m currently working on **Workout App**
+- 🔭 I’m currently working on **Rooms App**
 
-- 🌱 I’m currently learning **Vuejs, svelte and django**
+- 🌱 I’m currently learning **React and Nest**
 
-- 👯 I’m looking to collaborate on **Vuejs or django projects**
+- 👯 I’m looking to collaborate on **React or Nest projects**
 
-- 🤝 I’m looking for help with **django**
+- 🤝 I’m looking for help with **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nicolas-bouffanais.vercel.app/](https://portfolio-nicolas-bouffanais.vercel.app/)
 
-- 💬 Ask me about **react or vue**
+- 💬 Ask me about **react or typescript**
 
 - 📫 How to reach me **nicolas.bouffanais.1999@gmail.com**
 
